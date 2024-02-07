@@ -1,2 +1,6 @@
 hello world
+<<<<<<< Updated upstream
 modifying file 2
+=======
+modifying file
+>>>>>>> Stashed changes
